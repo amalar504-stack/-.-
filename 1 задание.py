@@ -1,0 +1,9 @@
+a = int(input("Введіть перше число: ")) # первое задание
+b = int(input("Введіть друге число: "))
+c = int(input("Введіть третє число: "))
+
+suma = a + b + c
+dobutok = a * b * c
+
+print("Сума чисел:", suma)
+print("Добуток чисел:", dobutok)
